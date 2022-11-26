@@ -6,8 +6,8 @@
 from typing import List
 
 
-# 力扣地址
-# https://leetcode.cn/problems/binary-search/
+# leetcode url: https://leetcode.cn/problems/binary-search/
+# 标签：数组
 class Solution:
     def binary_search(self, nums: List[int], target: int) -> int:
         left = 0

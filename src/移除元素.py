@@ -5,8 +5,8 @@
 from typing import List
 
 
-# 力扣地址
-# https://leetcode.cn/problems/remove-element/
+# leetcode url: https://leetcode.cn/problems/remove-element/
+# 标签：数组
 
 # 使用快慢指针解决此问题，快指针来遍历数组，慢指针用来收集不等于 val 的元素
 class Solution:
